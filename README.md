@@ -8,6 +8,7 @@ Crealityのスライサーソフト<b>CrealityPrint6</b>のフィラメントプ
 <br>
 他の機種の設定が表示されるので参考になると思います。
 
+ダウンロードは右上の<b>Releases</b>から出来ます。
 
 # Usage
 
