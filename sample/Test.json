@@ -1,0 +1,244 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "activate_chamber_temp_control": [
+        "1"
+    ],
+    "additional_cooling_fan_speed": [
+        "21"
+    ],
+    "base_id": "GFSA04",
+    "chamber_temperature": [
+        "39"
+    ],
+    "close_fan_the_first_x_layers": [
+        "5"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "77"
+    ],
+    "cool_cds_fan_start_at_height": [
+        "0.52"
+    ],
+    "cool_special_cds_fan_speed": [
+        "93"
+    ],
+    "customized_plate_temp": [
+        "104"
+    ],
+    "customized_plate_temp_initial_layer": [
+        "103"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "64"
+    ],
+    "enable_special_area_additional_cooling_fan": [
+        "1"
+    ],
+    "epoxy_resin_plate_temp": [
+        "106"
+    ],
+    "epoxy_resin_plate_temp_initial_layer": [
+        "105"
+    ],
+    "fan_cooling_layer_time": [
+        "31"
+    ],
+    "fan_max_speed": [
+        "79"
+    ],
+    "fan_min_speed": [
+        "12"
+    ],
+    "filament_cooling_final_speed": [
+        "3.421"
+    ],
+    "filament_cooling_initial_speed": [
+        "2.256"
+    ],
+    "filament_cooling_moves": [
+        "12"
+    ],
+    "filament_density": [
+        "1.081"
+    ],
+    "filament_deretraction_speed": [
+        "30.3"
+    ],
+    "filament_diameter": [
+        "1.751"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nend"
+    ],
+    "filament_flow_ratio": [
+        "0.951"
+    ],
+    "filament_is_support": [
+        "1"
+    ],
+    "filament_loading_speed": [
+        "28.222"
+    ],
+    "filament_loading_speed_start": [
+        "3.212"
+    ],
+    "filament_max_volumetric_speed": [
+        "9.99"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "15.654"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_flow": [
+        "10.689"
+    ],
+    "filament_multitool_ramming_volume": [
+        "10.65"
+    ],
+    "filament_notes": [
+        "note"
+    ],
+    "filament_ramming_parameters": [
+        "120 100 6.6129 6.74194 7.09677 7.58065 7.90323 8.16129 8.67742 9.3871 9.87097 10.0323| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
+    ],
+    "filament_retract_before_wipe": [
+        "88.3654%"
+    ],
+    "filament_retract_lift_above": [
+        "0.612"
+    ],
+    "filament_retract_lift_below": [
+        "0.14"
+    ],
+    "filament_retract_lift_enforce": [
+        "Top and Bottom"
+    ],
+    "filament_retract_restart_extra": [
+        "0.89"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.81"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2.99"
+    ],
+    "filament_retraction_speed": [
+        "30.6"
+    ],
+    "filament_settings_id": [
+        "Test"
+    ],
+    "filament_shrink": [
+        "99%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "98%"
+    ],
+    "filament_soluble": [
+        "1"
+    ],
+    "filament_stamping_distance": [
+        "38"
+    ],
+    "filament_stamping_loading_speed": [
+        "12"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nstart"
+    ],
+    "filament_toolchange_delay": [
+        "0.68"
+    ],
+    "filament_type": [
+        "ASA"
+    ],
+    "filament_unloading_speed": [
+        "90.881"
+    ],
+    "filament_unloading_speed_start": [
+        "100.101"
+    ],
+    "filament_vendor": [
+        "BRY"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_wipe_distance": [
+        "1.689"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Slope Lift"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "6"
+    ],
+    "hot_plate_temp": [
+        "99"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "98"
+    ],
+    "idle_temperature": [
+        "2"
+    ],
+    "inherits": "Generic PETG @Creality Ender-3 V3 0.4 nozzle",
+    "name": "Test",
+    "nozzle_temperature": [
+        "269"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "263"
+    ],
+    "nozzle_temperature_range_high": [
+        "271"
+    ],
+    "nozzle_temperature_range_low": [
+        "251"
+    ],
+    "overhang_fan_speed": [
+        "61"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "pellet_flow_coefficient": [
+        "0.415277"
+    ],
+    "required_nozzle_HRC": [
+        "2"
+    ],
+    "slow_down_layer_time": [
+        "9"
+    ],
+    "slow_down_min_speed": [
+        "10.5"
+    ],
+    "smart_cooling_zones": [
+        "1"
+    ],
+    "temperature_vitrification": [
+        "82"
+    ],
+    "textured_plate_temp": [
+        "102"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "101"
+    ],
+    "version": "25.1.1.0"
+}
